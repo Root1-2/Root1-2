@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Masrur</h1>
 <h3 align="center">A passionate programmer</h3>
 
+- 🔭 I’m currently studying **Computer Science & Engineering**
+
 - 📫 How to reach me **abdullahalmasrur8@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdullah-al-masrur-839000222/](https://www.linkedin.com/in/abdullah-al-masrur-839000222/)
