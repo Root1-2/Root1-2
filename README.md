@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/root1_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="root1_2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah al masrur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al masrur" height="30" width="40" /></a>
+<a href="https://x.com/Root1209811406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="root1_2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdullah-al-masrur-839000222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al masrur" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/root1_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="root1_2" height="30" width="40" /></a>
 <a href="https://fb.com/abdullah al masrur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah al masrur" height="30" width="40" /></a>
 </p>
