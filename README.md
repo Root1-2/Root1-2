@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Masrur</h1>
 <h3 align="center">A passionate programmer</h3>
 
-- 🔭 I’m currently studying **Computer Science & Engineering**
+- 🔭 I have completed my studies in **Computer Science & Engineering**
 
 - 📫 How to reach me **abdullahalmasrur8@gmail.com**
 
