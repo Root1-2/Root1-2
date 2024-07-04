@@ -21,7 +21,7 @@
 
 <p align="center" dir="auto">
   <a href="https://github.com/Root1-2">
-    <img src="https://camo.githubusercontent.com/418a568cf8ff28b8db97ea9fd3f57ad03e1610c001d96417de175b0afd65721f/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d436c6f7564434c6f776e267468656d653d7261646963616c" alt="Abdullah's GitHub Contribution" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Root1-2&amp;theme=radical" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/418a568cf8ff28b8db97ea9fd3f57ad03e1610c001d96417de175b0afd65721f/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d436c6f7564434c6f776e267468656d653d7261646963616c" alt="Abdullah's GitHub Contribution" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Root1-2&theme=radical" style="max-width: 100%;">
   </a>
 </p>
 <br><br>
