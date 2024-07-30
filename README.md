@@ -20,15 +20,13 @@
 <br><br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Root1-2&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Root1-2&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
 </p>
 <br>
 <p align="center" dir="auto">
   <a href="https://github.com/Root1-2">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Root1-2&theme=radical" alt="Abdullah's GitHub Contribution" style="max-width: 100%;">
   </a>
-</p>
-<p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjit-sahoo&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
 </p>
 <br>
 <p align="center">
