@@ -27,6 +27,9 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Root1-2&theme=radical" alt="Abdullah's GitHub Contribution" style="max-width: 100%;">
   </a>
 </p>
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjit-sahoo&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+</p>
 <br>
 <p align="center">
   <a href="https://github.com/Root1-2">
