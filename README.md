@@ -26,5 +26,8 @@
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Root1-2&hide_border=true&theme=transparent" /> 
 </p>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Root1-2&theme=transparent" height="180em" alt="Commitments"/>
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Root1-2&theme=transparent" height="180em" alt="Commitments"/>
+</p>
+
 <br>
