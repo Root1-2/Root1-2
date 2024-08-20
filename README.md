@@ -7,6 +7,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdullah-al-masrur-839000222/](https://www.linkedin.com/in/abdullah-al-masrur-839000222/)
 
+- 🖥️ Look at my portfolio [https://root12portfolio.vercel.app/]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Root1209811406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="root1_2" height="30" width="40" /></a>
