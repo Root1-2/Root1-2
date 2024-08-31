@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdullah-al-masrur-839000222/](https://www.linkedin.com/in/abdullah-al-masrur-839000222/)
 
-- 🖥️ Look at my portfolio https://root12portfolio.vercel.app/
+- 🖥️ Look at my portfolio https://root12web.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
